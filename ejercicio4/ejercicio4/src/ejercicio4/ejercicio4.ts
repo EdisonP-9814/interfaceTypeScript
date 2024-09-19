@@ -18,5 +18,5 @@ export const empleado: Empleado={
     },
     cargo: "Desarrollador Junior",
     salario: 2500000,
-    horario: "horario de trabajo de 8 Am a 4 Pm"
+    horario: "El horario de trabajo de 8 Am a 4 Pm"
 }
